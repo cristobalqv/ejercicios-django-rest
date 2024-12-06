@@ -13,7 +13,7 @@ class Libro(models.Model):
     
 
 
-FRECUENCIA = [('DIARIA', 'Diaria'),         #(a,b)   a mostrado en base de datos,    b al usuario
+FRECUENCIA = [('DIARIA', 'Diaria'),         #(a,b)   a se muestra en base de datos, b mostrado al usuario
               ('SEMANAL', 'Semanal'),
               ('MENSUAL', 'Mensual')]
 
